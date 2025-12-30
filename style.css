@@ -118,3 +118,41 @@ footer {
     background-color: #1f2a24;
     color: white;
 }
+/* ===== PAGE BOUTIQUE ===== */
+
+.simple-header {
+    background-color: #1f2a24;
+    color: white;
+}
+
+.simple-header .nav a {
+    color: white;
+}
+
+.coming-soon-box {
+    margin-top: 40px;
+    padding: 30px;
+    border: 2px solid #c2a14d;
+    background-color: #fdfbf6;
+}
+
+.coming-soon-box h3 {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.coming-soon-box ul {
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+.coming-soon-box li {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.soon {
+    font-weight: bold;
+    font-size: 18px;
+    color: #1f2a24;
+}
